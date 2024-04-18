@@ -13,6 +13,10 @@ public class MainActivity extends AppCompatActivity {
 GridView gridView;
 int [] img_array={R.drawable.a,R.drawable.aa,R.drawable.aaa,R.drawable.aaaa,
         R.drawable.aaaaa,R.drawable.aaaaaa,R.drawable.aaaaaaa,R.drawable.aaaaaaaaa,
+        R.drawable.aaaaaaaaaaaaaaa,R.drawable.aaaaaaaaaaaaaaaaaaaa,R.drawable.a,R.drawable.aa,R.drawable.aaa,R.drawable.aaaa,
+        R.drawable.aaaaa,R.drawable.aaaaaa,R.drawable.aaaaaaa,R.drawable.aaaaaaaaa,
+        R.drawable.aaaaaaaaaaaaaaa,R.drawable.aaaaaaaaaaaaaaaaaaaa,R.drawable.a,R.drawable.aa,R.drawable.aaa,R.drawable.aaaa,
+        R.drawable.aaaaa,R.drawable.aaaaaa,R.drawable.aaaaaaa,R.drawable.aaaaaaaaa,
         R.drawable.aaaaaaaaaaaaaaa,R.drawable.aaaaaaaaaaaaaaaaaaaa};
     @Override
     protected void onCreate(Bundle savedInstanceState) {
